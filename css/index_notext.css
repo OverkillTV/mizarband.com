@@ -1,0 +1,51 @@
+body {
+    background-image: url('../img/oz-f-01-notext.jpg');
+}
+
+
+@media only screen and (max-width: 960px) {
+	body {
+		background-image: url('../img/oz-mob-01-notext.jpg');
+	}
+}
+@media only screen and (max-width: 600px) {
+	body {
+		background-image: url('../img/oz-mob-01-notext.jpg');
+	}
+}
+@media only screen and (max-width: 500px) {
+	body {
+		background-image: url('../img/oz-mob-01-notext.jpg');
+	}
+}
+@media only screen and (max-width: 375px) {
+	body {
+		background-image: url('../img/oz-mob-01-notext.jpg');
+	}
+}
+@media only screen and (max-width: 360px) {
+	body {
+		background-image: url('../img/oz-mob-01-notext.jpg');
+	}
+}
+@media only screen and (max-width: 320px) {
+	body {
+		background-image: url('../img/oz-mob-01-notext.jpg');
+	}
+}
+
+@media only screen  and (min-device-width: 320px)  and (max-device-width: 568px) and (orientation: portrait) {
+	body {
+		background-image: url('../img/oz-mob-01-notext.jpg');
+	}
+}
+@media only screen and (min-device-width: 350px) and (max-device-width: 812px) and (orientation: portrait) {
+	body {
+		background-image: url('../img/oz-mob-01-notext.jpg');
+	}
+}
+@media only screen and (min-device-width: 600px) and (max-device-width: 1180px) and (orientation: portrait) {
+	body {
+		background-image: url('../img/oz-mob-01-notext.jpg');
+	}
+}
